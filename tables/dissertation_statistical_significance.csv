@@ -1,0 +1,7 @@
+Model,Mean Squared-Loss Difference,HAC p-value,Significant at 5%
+Linear Regression,-0.00013589,0.2789,No
+Random Forest,-5.887e-05,0.5831,No
+XGBoost,-7.958e-05,0.4606,No
+XGBoost + GPR (Provisional),-5.114e-05,0.6527,No
+GARCH Expanding Window,-8.421e-05,0.3919,No
+LSTM,3.839e-05,0.8127,No

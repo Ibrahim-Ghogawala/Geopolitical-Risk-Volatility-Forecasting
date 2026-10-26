@@ -1,0 +1,3 @@
+Approach,RMSE,MAE,Safe_MAPE
+Fixed-Origin Linear Regression,0.035895,0.018616,27.73035
+Expanding-Window Linear Regression,0.03624762468971806,0.019110714625031545,28.79505790848879

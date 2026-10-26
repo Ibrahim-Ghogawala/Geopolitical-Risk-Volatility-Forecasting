@@ -1,0 +1,2 @@
+Model,Feature_Set,Period,RMSE,MAE,Safe_MAPE
+Linear Regression,Market Only,Validation,0.035895241587360564,0.018615704579516723,27.73035030161254

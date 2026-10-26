@@ -1,0 +1,8 @@
+Feature,Mean_Absolute_SHAP
+RV_Historical_5D,0.0030095545
+RV_Historical_20D,0.0028248713
+RV_Historical_60D,0.0025416538
+RV_Historical_10D,0.0022886845
+Return_Lag1,0.0018319517
+Absolute_Return,0.00086112274
+RV_20D_Lag1,0.00067765504

@@ -1,0 +1,19 @@
+Model,Feature,Mean_Absolute_SHAP
+Market-only XGBoost,RV_Historical_5D,0.0030095545
+Market-only XGBoost,RV_Historical_20D,0.0028248713
+Market-only XGBoost,RV_Historical_60D,0.0025416538
+Market-only XGBoost,RV_Historical_10D,0.0022886845
+Market-only XGBoost,Return_Lag1,0.0018319517
+Market-only XGBoost,Absolute_Return,0.00086112274
+Market-only XGBoost,RV_20D_Lag1,0.00067765504
+XGBoost + GPR,GPR_MA20,0.0043281177
+XGBoost + GPR,RV_Historical_20D,0.0032418035
+XGBoost + GPR,RV_Historical_5D,0.0032157884
+XGBoost + GPR,RV_Historical_10D,0.0027610906
+XGBoost + GPR,RV_Historical_60D,0.0021073571
+XGBoost + GPR,Return_Lag1,0.0015018607
+XGBoost + GPR,GPR_MA5,0.0006319788
+XGBoost + GPR,RV_20D_Lag1,0.0005808795
+XGBoost + GPR,Absolute_Return,0.0004999345
+XGBoost + GPR,GPR_Level,0.0001426907
+XGBoost + GPR,GPR_Change,8.1730126e-05

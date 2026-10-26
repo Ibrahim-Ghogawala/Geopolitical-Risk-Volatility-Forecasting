@@ -1,0 +1,8 @@
+Rank,Model,RMSE,MAE,Safe MAPE (%),RMSE Improvement (%)
+1,Linear Regression,0.017902,0.011252,29.81,16.2
+2,GARCH Expanding Window,0.019291,0.012415,33.89,9.7
+3,XGBoost,0.019411,0.011552,29.54,9.14
+4,Random Forest,0.019937,0.011745,29.58,6.67
+5,XGBoost + GPR (Provisional),0.02013,0.01315,35.97,5.77
+6,Persistence,0.021363,0.012794,31.1,0.0
+7,LSTM,0.022243,0.01538,37.04,-4.12
